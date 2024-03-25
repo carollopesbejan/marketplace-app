@@ -1,6 +1,6 @@
 # marketplace-app
 
-ueremos cadastrar todos os produtos disponíveis.
+Queremos cadastrar todos os produtos disponíveis.
 Os produtos devem guardar o: id, descrição, categoria, preco e qtd em estoque.
  
 - Faça um CRUD onde um usuário autenticado: veja a lista de produtos, cadastre um novo produto, edite um produto criado e delete o produto.
